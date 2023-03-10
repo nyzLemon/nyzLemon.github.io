@@ -3,7 +3,7 @@
 
  <body> 
    <h1>Design the survey questions</h1> 
- <p>Surveys are used as a method of gathering data in many different fields. They are a good choice when you want to find out about the characteristics, preferences, opinions, or beliefs of a group of people.Through the questionnaire, the company can understand customers' hobbies and trends, so that the company can develop the products that customers like according to their preferences and achieve the purpose of increasing marketing,</p > 
+ <p>When you want to do an activity or a project, talk with some of your users to see if it meets their needs and if you take it for granted. So user research can well verify whether your idea is really needed by users.</p > 
  </body> 
  </html> 
 
